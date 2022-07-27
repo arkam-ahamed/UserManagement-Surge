@@ -1,0 +1,10 @@
+version:'3'
+services:
+  backend:
+    image: arkamahamed/spring-boot-docker
+    ports:
+      - 8080:8080
+  frontend:
+    image: arkamahamed/react-docker
+    ports:
+      - 3000:3000
