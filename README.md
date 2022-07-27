@@ -1,6 +1,6 @@
 # UserManagement-Surge
 
-⋅⋅⋅Technologies used
+Technologies used
 * React js.
 * Springboot(Java)
 
